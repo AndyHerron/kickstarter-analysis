@@ -11,7 +11,7 @@ The purpose of this project is to utilize Excel, PivotTables and PivotCharts to 
 ### Analysis of Outcomes Based on Launch Date
 All of the campaigns in this project were sorted by the month in which they were started.  The number of campaigns within each month were then counted by whether they were successful or not.
 The line chart that was created from this PivotTable makes it simple to compare how many campaigns each month were successful or failed or canceled.
-![line chart of Outcomes Based on Launch Date](/kickstarter-analysis/Resources/Theater_Outcomes_Vs_Launch)
+![line chart of Outcomes Based on Launch Date](https://github.com/AndyHerron/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_Vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -19,7 +19,7 @@ The kickstarter goals in this project were grouped into categories of $5000 inte
 The campaigns that had the highest rate of success were campaigns with smaller goal amounts.  75.8% of the campaigns under $1000 were successful.  Campaigns up to $5000 also had a good rate of success, at 72.7%.
 The next highest percentages were for campaigns with significantly higher goals, with a 66.7% rate of success for campaigns between $35,000 and $45,000.  Campaigns with mid-range goals (from $15000 to $35000) failed
 more often than they succeeded.  Campaigns with goals between $5000 and $15000 did succeed more than fail, but only by a narrow margin.  The success rate for that range was only about 55%, or just more than half.
-![line chart of Outcomes vs. Goals](/kickstarter-analysis/Resources/Outcomes_Vs_Goals)
+![line chart of Outcomes vs. Goals](https://github.com/AndyHerron/kickstarter-analysis/blob/main/Resources/Outcomes_Vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 The difficulties that I had with this project were using Excel functions that I was unfamiliar with, and then formatting them correctly.  I had never used IF, COUNTIF, YEAR and MONTH functions before, and
